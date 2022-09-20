@@ -21,6 +21,9 @@ Las herramientas que utilizamos para poder usar este codigo que una de ellas fue
 las cuales a continuacion daremos una descripcion de la importacioa de estas al llevar a cabo en nuestro proyecto.
 
 # Proceso de instalacion de los paquetes y/o librerias que utilizamos.
+1.Para iniciar este proceso de primera mano a nuestro buscador del escritorio  se debera de instalar Python 
+2. Se debera instalar Visual Studio Code y de alli buscar extenciones en la cual procederemos a buscar la de Python 
+3. Vaos a direigirnos a la barra de busqueda de nuestr computador, se debera de escribir el simbolo del sistema (cmd) en sistemas operativos para cualquier tipo de escritorio, tendra que dirigirse a spotligth, buscar termminal  y con esto a cabo podra acceder de una manera facil, luego de que este en en la terminal o "cmd" debera escribir (pip.intall" desues de eso vas a poner el nombre de paquete y/o libreria que quieres instalar o tambien facilmente ir a  la pagina donde se encuantra la informacion de esta libreria 
 
 
 
