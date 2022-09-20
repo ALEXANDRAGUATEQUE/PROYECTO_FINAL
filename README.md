@@ -28,7 +28,7 @@ las cuales a continuacion daremos una descripcion de la importacioa de estas al 
 foto
 
 # Paquetes o librerias que se usaron:
-
+# *PYGAME*
 
 
 
