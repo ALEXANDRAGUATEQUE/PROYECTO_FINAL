@@ -30,7 +30,7 @@ foto
 # Paquetes o librerias que se usaron:
 # *PYGAME*
 _______
-Pygame es una librería para el desarrollo de videojuegos en segunda dimensión 2D con el lenguaje de programación Python. Pygame está basada en SDL, que es una librería que nos provee acceso de bajo nivel al audio, teclado, ratón y al hardware gráfico de nuestro ordenador. Es un producto que funciona en cualquier sistema: Mac OS, Windows. El SDL son bibliotecas en lenguaje C para gestión de gráficos 2D (manipulación de las imágenes como objetos de 2D en el lienzo, es decir, la ventana), imágenes (ficheros de tipo jpg o png o tif), audio y periféricos a bajo nivel (teclado, ratón), esto nos ayudara a
+Pygame es una librería para el desarrollo de videojuegos en segunda dimensión 2D con el lenguaje de programación Python. Pygame está basada en SDL, que es una librería que nos provee acceso de bajo nivel al audio, teclado, ratón y al hardware gráfico de nuestro ordenador. Es un producto que funciona en cualquier sistema: Mac OS, Windows. El SDL son bibliotecas en lenguaje C para gestión de gráficos 2D (manipulación de las imágenes como objetos de 2D en el lienzo, es decir, la ventana), imágenes (ficheros de tipo jpg o png o tif), audio y periféricos a bajo nivel (teclado, ratón), esto nos ayudara a determinar los controles y para poder visualizar lo que hagamos en nuestro codigo, es generar un puente de comunicacion entre la interfas y el usuario (joystick)
 
 # Proceso de intalacion 
 
@@ -39,8 +39,7 @@ __________
 Este módulo implementa generadores de números pseudoaleatorios para varias distribuciones.
 Para los enteros, existe una selección uniforme dentro de un rango. Para las secuencias, existe una selección uniforme de un elemento aleatorio, una función para generar una permutación aleatoria de una lista in-situ y una función para el muestreo aleatorio sin reemplazo.
 Para números reales, existen funciones para calcular distribuciones uniformes, normales (Gaussianas), log-normales, exponenciales negativas, gamma y beta. Para generar distribuciones angulares está disponible la distribución de von Mises.
-Casi todas las funciones del módulo dependen de la función básica random(), la cuál genera uniformemente un número flotante aleatorio en el rango semiabierto [0.0, 1.0). Python utiliza Mersenne Twister como generador principal. Éste produce números de coma flotante de 53 bits de precisión y tiene un periodo de 2**19937-1. La implementación subyacente en C es rápida y segura para subprocesos. Mersenne Twister es uno de los generadores de números aleatorios más testados que existen. Sin embargo, al ser completamente determinístico, no es adecuado para todos los propósitos y es completamente inadecuado para fines criptográficos, esta libreria nos ayudara a
-
-
+Casi todas las funciones del módulo dependen de la función básica random(), la cuál genera uniformemente un número flotante aleatorio en el rango semiabierto.Python utiliza Mersenner Twiater con generador principal.Este produce numeros flotantes en aleatorio en bits de precicion de 2x19937-1, esta libreria en nuestro programa nos sirve, como ya lo explicamos anteriormente para generar posiciones aleatorias pero en nuestro caso de las manzanas dentro de un rango impuesto por el programador.
+# Proceso de intalacion 
 
 
