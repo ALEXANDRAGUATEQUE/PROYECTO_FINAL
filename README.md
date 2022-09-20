@@ -15,6 +15,9 @@ Encontraremos una breve descripcion acerca de como fue el proceso del proyecto f
 El cual podra ejecutar desde la terminal de un computador a partir de  la instalacion Python, que es el lenguaje de programacion que permitira ejecutar el juego.
 
 # Herramientas utilizadas 
+Las herramientas que utilizamos para poder usar este codigo que una de ellas fue Visual Studio Code una herramienta para programadores y diseñadores web, esta herramienta es necesaria ya que en este podremos ejecutar y escribir el codigo por otra parte usamos Python que debemos tener preinstalado, tambien en adicion se deberan instalar las dos librerias o paquetes que son las siguientes:
+-**pygame
+-**Random
 
 
 
