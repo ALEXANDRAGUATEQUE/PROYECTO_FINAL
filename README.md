@@ -16,10 +16,12 @@ El cual podra ejecutar desde la terminal de un computador a partir de  la instal
 
 # Herramientas utilizadas 
 Las herramientas que utilizamos para poder usar este codigo que una de ellas fue Visual Studio Code una herramienta para programadores y diseñadores web, esta herramienta es necesaria ya que en este podremos ejecutar y escribir el codigo por otra parte usamos Python que debemos tener preinstalado, tambien en adicion se deberan instalar las dos librerias o paquetes que son las siguientes:
-
 -**pygame**
 -**Random**
 las cuales a continuacion daremos una descripcion de la importacioa de estas al llevar a cabo en nuestro proyecto.
+
+# Proceso de instalacion de los paquetes y/o librerias que utilizamos.
+
 
 
 
