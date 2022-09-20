@@ -29,7 +29,12 @@ foto
 
 # Paquetes o librerias que se usaron:
 # *PYGAME*
+Pygame es una librería para el desarrollo de videojuegos en segunda dimensión 2D con el lenguaje de programación Python. Pygame está basada en SDL, que es una librería que nos provee acceso de bajo nivel al audio, teclado, ratón y al hardware gráfico de nuestro ordenador. Es un producto que funciona en cualquier sistema: Mac OS, Windows. El SDL son bibliotecas en lenguaje C para gestión de gráficos 2D (manipulación de las imágenes como objetos de 2D en el lienzo, es decir, la ventana), imágenes (ficheros de tipo jpg o png o tif), audio y periféricos a bajo nivel (teclado, ratón), esto nos ayudara :_____ 
 
+# Proceso de intalacion 
+_______
+_______
+# *RANDOM
 
 
 
