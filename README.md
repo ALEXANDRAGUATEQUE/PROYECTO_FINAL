@@ -33,7 +33,11 @@ las cuales a continuacion daremos una descripcion de la importacioa de estas al 
 _______
 Pygame es una librería para el desarrollo de videojuegos en segunda dimensión 2D con el lenguaje de programación Python. Pygame está basada en SDL, que es una librería que nos provee acceso de bajo nivel al audio, teclado, ratón y al hardware gráfico de nuestro ordenador. Es un producto que funciona en cualquier sistema: Mac OS, Windows. El SDL son bibliotecas en lenguaje C para gestión de gráficos 2D (manipulación de las imágenes como objetos de 2D en el lienzo, es decir, la ventana), imágenes (ficheros de tipo jpg o png o tif), audio y periféricos a bajo nivel (teclado, ratón), esto nos ayudara a determinar los controles y para poder visualizar lo que hagamos en nuestro codigo, es generar un puente de comunicacion entre la interfas y el usuario (joystick)
 
-# Proceso de intalacion 
+# Proceso de intalacion
+link:
+https://pypi.org/project/pygame-2048/
+
+![pygame](https://user-images.githubusercontent.com/109982460/191594964-b5203ecc-a4a0-4f88-9da3-fded6ce4e4a0.png)
 
 # *RANDOM*
 __________
@@ -42,5 +46,8 @@ Para los enteros, existe una selección uniforme dentro de un rango. Para las se
 Para números reales, existen funciones para calcular distribuciones uniformes, normales (Gaussianas), log-normales, exponenciales negativas, gamma y beta. Para generar distribuciones angulares está disponible la distribución de von Mises.
 Casi todas las funciones del módulo dependen de la función básica random(), la cuál genera uniformemente un número flotante aleatorio en el rango semiabierto.Python utiliza Mersenner Twiater con generador principal.Este produce numeros flotantes en aleatorio en bits de precicion de 2x19937-1, esta libreria en nuestro programa nos sirve, como ya lo explicamos anteriormente para generar posiciones aleatorias pero en nuestro caso de las manzanas dentro de un rango impuesto por el programador.
 # Proceso de intalacion 
+Link:
+https://pypi.org/project/random2/
 
+![random](https://user-images.githubusercontent.com/109982460/191596996-402e1f9a-5d9c-4bde-be05-49cb00a65a53.png)
 
