@@ -25,7 +25,8 @@ las cuales a continuacion daremos una descripcion de la importacioa de estas al 
 2. Se debera instalar Visual Studio Code y de alli buscar extenciones en la cual procederemos a buscar la de Python 
 3. Vaos a direigirnos a la barra de busqueda de nuestr computador, se debera de escribir el simbolo del sistema (cmd) en sistemas operativos para cualquier tipo de escritorio, tendra que dirigirse a spotligth, buscar termminal  y con esto a cabo podra acceder de una manera facil, luego de que este en en la terminal o "cmd" debera escribir (pip.intall" desues de eso vas a poner el nombre de paquete y/o libreria que quieres instalar o tambien facilmente ir a  la pagina donde se encuantra la informacion de esta libreria  en donde procedera  a copiar el codigo y pegarlo en la terminal o cmd  para que comience el proceso de instalacion.
 
-foto
+[cmd](https://user-images.githubusercontent.com/109982460/191588868-e017e08f-2b7d-4b98-9652-75c04be81770.png)
+
 
 # Paquetes o librerias que se usaron:
 # *PYGAME*
