@@ -1,4 +1,4 @@
-import pygame
+import pygame 
 import random
 ab=int(input("escoja la dificultad \n 1-facil \n 2-dificil \n 3-extremo"))
 def cuenta():
